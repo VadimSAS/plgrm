@@ -43,3 +43,5 @@ body:has(.ski-order-route) .flat-context{display:none}.ski-order-route{backgroun
 @media(min-width:1px){.home-page .site-header:not(.is-scrolled) .header-inner>a{background:#202724;color:#fff;outline-color:#fff}.home-page .site-header.is-scrolled .header-inner>a{background:#fff;color:#202724;outline-color:#202724}}
 
 .embroidery-section{background:#f1f3ef}.embroidery-layout{display:grid;grid-template-columns:1fr 1fr;gap:90px}.embroidery-layout h2{max-width:600px}.embroidery-layout>div:first-child p{max-width:480px;font-size:14px;line-height:1.9;color:#526156;margin:25px 0 0}.embroidery-line{display:grid;grid-template-columns:46px 1fr;gap:20px;padding:22px 0;border-top:1px solid #c8d2c4}.embroidery-line span{font-size:11px;color:#657a67}.embroidery-line h3{font-size:21px;letter-spacing:-.4px;margin:0 0 10px}.embroidery-line p{font-size:13px;line-height:1.9;color:#526156;margin:0}.embroidery-copy .btn{margin-top:20px}@media(max-width:767px){.embroidery-layout{grid-template-columns:1fr;gap:32px}.embroidery-line{gap:10px}.embroidery-copy .btn{width:100%}}
+
+.flat-study .flat-context{display:none}.flat-study .flat-sheet figcaption{justify-content:flex-end}
